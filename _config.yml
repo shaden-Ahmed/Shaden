@@ -13,7 +13,7 @@ picture: assets/images/sha.jpg
 # If you want to include your resume, set to true
 # and specify source (external or local).
 #resume: true
-resume-external: true
+#resume-external: true
 
 
 url: https://github.com/shaden-Ahmed/Shaden
@@ -42,7 +42,7 @@ facebook: https://www.facebook.com/shaden.shoodii
 # linkedin: mylinkedin
 # youtube: myyoutube
 # spotify: myspotify
-github: mygithub
+#github: mygithub
 # gitlab: mygitlab
 # lastfm: mylastfm
 # stackoverflow: 7044681/mystackoverflow
